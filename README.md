@@ -1,7 +1,7 @@
 # Olá, me chamo Vitor Lima e esse é o meu perfil!
 
 # Como me contatar:
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vitoroturan@gmail.com) 
 
 https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
