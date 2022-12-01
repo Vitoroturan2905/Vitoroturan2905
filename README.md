@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33333&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
+# 
+
 # Como me contatar:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vitoroturan@gmail.com)
 
