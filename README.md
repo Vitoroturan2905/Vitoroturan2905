@@ -2,7 +2,8 @@
 
 # Como me contatar:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vitoroturan@gmail.com)
-[![Linkedin]([![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vitoroturan@gmail.com))](https://www.linkedin.com/in/vitorlimasilva2905/)
+
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/vitorlimasilva2905/)
 
 
 
